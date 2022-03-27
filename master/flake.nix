@@ -11,6 +11,7 @@
   inputs.src-kslog-master.ref   = "refs/heads/master";
   inputs.src-kslog-master.owner = "c-blake";
   inputs.src-kslog-master.repo  = "kslog";
+  inputs.src-kslog-master.dir   = "";
   inputs.src-kslog-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
